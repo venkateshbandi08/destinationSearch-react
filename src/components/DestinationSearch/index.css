@@ -1,0 +1,59 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.main-heading {
+  color: #000000;
+}
+
+.search-box-container {
+  background-color: #f1f5f9;
+  height: 45px;
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+.search-box {
+  background-color: #f1f5f9;
+  height: 40px;
+  width: 200px;
+  border-radius: 5px;
+  border: 0px solid;
+  outline: none;
+  padding-left: 10px;
+}
+.search-image {
+  width: 25px;
+}
+.all-destination-cards-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-container {
+  margin: 25px;
+}
+.destination-image {
+  width: 350px;
+}
+.destination-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+
+  font-size: 22px;
+}

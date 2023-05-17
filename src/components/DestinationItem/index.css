@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.all-destination-cards-container {
+  margin: 20px;
+}
+
+.card-container {
+  margin: 25px;
+}
+.destination-image {
+  width: 350px;
+}
+.destination-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+
+  font-size: 22px;
+}
